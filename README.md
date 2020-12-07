@@ -1,4 +1,4 @@
-# Expense Tracker (React)
+# Expense Calculator (React)
 
 This is a React.js Income and Expense Tracker/Calculator. It uses functional components with hooks and the context API
 
