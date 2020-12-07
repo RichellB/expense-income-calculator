@@ -8,8 +8,6 @@ import './App.css';
 
 import { GlobalProvider } from './context/GlobalState';
 
-import './App.css';
-
 function App() {
   return (
     <GlobalProvider>
