@@ -22,8 +22,10 @@ export const IncomeExpenses = () => {
           <h4>Total Income</h4>
   <p className="money plus">{income}</p>
         </div>
-       
+        <div>
+          <h4>Total Expenses</h4>
+  <p className="money minus">{expense}</p>
+        </div>
       </div>
   )
 }
-
